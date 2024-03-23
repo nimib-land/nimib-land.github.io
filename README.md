@@ -1,2 +1,3 @@
-# website
-landing page for nimib.land
+# Welcome to NimibLand
+
+work-in-progress
